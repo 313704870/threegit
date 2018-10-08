@@ -1,4 +1,4 @@
-t 学习整理
+git 学习整理
 
 
 //基本入门命令
@@ -70,4 +70,3 @@ eg:
 
   rm OK.txt
   git checkout -- Ok.txt  //如果删除这样回退
-
