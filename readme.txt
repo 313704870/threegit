@@ -1,6 +1,6 @@
 git 学习整理
 
-
+--本地git使用
 //基本入门命令
 git init;
 git config --global user.name "秦文帅"
